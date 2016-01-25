@@ -16,7 +16,7 @@ class PigLatin
               "th", "tr", "tw", 
               "wh", "wr"]
 
-  #             sc            sh     sp                   st     th
+  #             sc            sh     sp                   st     th     trigraphs is digraphs's scope, but need to deal with 
 
   TRIGRAPHS = ["sch", "scr", "shr", "spl", "spr", "squ", "str", "thr"]
 
